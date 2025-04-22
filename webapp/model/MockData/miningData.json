@@ -1,0 +1,232 @@
+{
+    "miningListSet": [
+      {
+        "Location_ID": "LOC001",
+        "Location_Description": "Northern Region",
+        "Mining_Resource_Allocated": "5000 tons",
+        "Total_Cost": "200000 USD",
+        "Number_of_Drills_Performed": "15",
+        "Type_of_Mineral": "Gold",
+        "Report_of_Possible_Mineral": "High concentration of gold"
+      },
+      {
+        "Location_ID": "LOC002",
+        "Location_Description": "Eastern Region",
+        "Mining_Resource_Allocated": "3000 tons",
+        "Total_Cost": "150000 USD",
+        "Number_of_Drills_Performed": "10",
+        "Type_of_Mineral": "Silver",
+        "Report_of_Possible_Mineral": "Moderate concentration of silver"
+      },
+      {
+        "Location_ID": "LOC003",
+        "Location_Description": "Western Region",
+        "Mining_Resource_Allocated": "7000 tons",
+        "Total_Cost": "250000 USD",
+        "Number_of_Drills_Performed": "20",
+        "Type_of_Mineral": "Copper",
+        "Report_of_Possible_Mineral": "High concentration of copper"
+      },
+      {
+        "Location_ID": "LOC004",
+        "Location_Description": "Southern Region",
+        "Mining_Resource_Allocated": "4000 tons",
+        "Total_Cost": "180000 USD",
+        "Number_of_Drills_Performed": "12",
+        "Type_of_Mineral": "Iron",
+        "Report_of_Possible_Mineral": "Moderate concentration of iron"
+      },
+      {
+        "Location_ID": "LOC005",
+        "Location_Description": "Central Region",
+        "Mining_Resource_Allocated": "6000 tons",
+        "Total_Cost": "220000 USD",
+        "Number_of_Drills_Performed": "18",
+        "Type_of_Mineral": "Zinc",
+        "Report_of_Possible_Mineral": "High concentration of zinc"
+      },
+      {
+        "Location_ID": "LOC006",
+        "Location_Description": "North-Eastern Region",
+        "Mining_Resource_Allocated": "3500 tons",
+        "Total_Cost": "160000 USD",
+        "Number_of_Drills_Performed": "11",
+        "Type_of_Mineral": "Lead",
+        "Report_of_Possible_Mineral": "Moderate concentration of lead"
+      },
+      {
+        "Location_ID": "LOC007",
+        "Location_Description": "South-Western Region",
+        "Mining_Resource_Allocated": "4500 tons",
+        "Total_Cost": "190000 USD",
+        "Number_of_Drills_Performed": "14",
+        "Type_of_Mineral": "Nickel",
+        "Report_of_Possible_Mineral": "High concentration of nickel"
+      },
+      {
+        "Location_ID": "LOC008",
+        "Location_Description": "North-Western Region",
+        "Mining_Resource_Allocated": "5500 tons",
+        "Total_Cost": "210000 USD",
+        "Number_of_Drills_Performed": "16",
+        "Type_of_Mineral": "Tin",
+        "Report_of_Possible_Mineral": "Moderate concentration of tin"
+      },
+      {
+        "Location_ID": "LOC009",
+        "Location_Description": "South-Eastern Region",
+        "Mining_Resource_Allocated": "4800 tons",
+        "Total_Cost": "200000 USD",
+        "Number_of_Drills_Performed": "13",
+        "Type_of_Mineral": "Aluminum",
+        "Report_of_Possible_Mineral": "High concentration of aluminum"
+      },
+      {
+        "Location_ID": "LOC010",
+        "Location_Description": "Central-Western Region",
+        "Mining_Resource_Allocated": "5200 tons",
+        "Total_Cost": "205000 USD",
+        "Number_of_Drills_Performed": "17",
+        "Type_of_Mineral": "Platinum",
+        "Report_of_Possible_Mineral": "High concentration of platinum"
+      },{
+        "Location_ID": "LOC011",
+        "Location_Description": "North-Central Region",
+        "Mining_Resource_Allocated": "5300 tons",
+        "Total_Cost": "210000 USD",
+        "Number_of_Drills_Performed": "18",
+        "Type_of_Mineral": "Uranium",
+        "Report_of_Possible_Mineral": "High concentration of uranium"
+      },
+      {
+        "Location_ID": "LOC012",
+        "Location_Description": "South-Central Region",
+        "Mining_Resource_Allocated": "4700 tons",
+        "Total_Cost": "195000 USD",
+        "Number_of_Drills_Performed": "15",
+        "Type_of_Mineral": "Lithium",
+        "Report_of_Possible_Mineral": "Moderate concentration of lithium"
+      },
+      {
+        "Location_ID": "LOC013",
+        "Location_Description": "North-East Central Region",
+        "Mining_Resource_Allocated": "5100 tons",
+        "Total_Cost": "205000 USD",
+        "Number_of_Drills_Performed": "17",
+        "Type_of_Mineral": "Cobalt",
+        "Report_of_Possible_Mineral": "High concentration of cobalt"
+      },
+      {
+        "Location_ID": "LOC014",
+        "Location_Description": "South-West Central Region",
+        "Mining_Resource_Allocated": "4900 tons",
+        "Total_Cost": "200000 USD",
+        "Number_of_Drills_Performed": "16",
+        "Type_of_Mineral": "Manganese",
+        "Report_of_Possible_Mineral": "Moderate concentration of manganese"
+      },
+      {
+        "Location_ID": "LOC015",
+        "Location_Description": "North-West Central Region",
+        "Mining_Resource_Allocated": "5200 tons",
+        "Total_Cost": "210000 USD",
+        "Number_of_Drills_Performed": "18",
+        "Type_of_Mineral": "Tungsten",
+        "Report_of_Possible_Mineral": "High concentration of tungsten"
+      }
+      
+    ],
+    "miningSupplier": [
+      {
+        "Contractor_Name": "ABC Mining Co.",
+        "Contact": "contact@abcmining.com",
+        "Location": "Northern Region",
+        "Type_of_Mineral": "Gold"
+      },
+      {
+        "Contractor_Name": "XYZ Mining Ltd.",
+        "Contact": "info@xyzmining.com",
+        "Location": "Eastern Region",
+        "Type_of_Mineral": "Silver"
+      },
+      {
+        "Contractor_Name": "LMN Mining Corp.",
+        "Contact": "support@lmnmining.com",
+        "Location": "Western Region",
+        "Type_of_Mineral": "Copper"
+      },
+      {
+        "Contractor_Name": "OPQ Mining Inc.",
+        "Contact": "services@opqmining.com",
+        "Location": "Southern Region",
+        "Type_of_Mineral": "Iron"
+      },
+      {
+        "Contractor_Name": "RST Mining LLC",
+        "Contact": "contact@rstmining.com",
+        "Location": "Central Region",
+        "Type_of_Mineral": "Zinc"
+      },
+      {
+        "Contractor_Name": "UVW Mining Group",
+        "Contact": "info@uvwmining.com",
+        "Location": "North-Eastern Region",
+        "Type_of_Mineral": "Lead"
+      },
+      {
+        "Contractor_Name": "DEF Mining Services",
+        "Contact": "support@defmining.com",
+        "Location": "South-Western Region",
+        "Type_of_Mineral": "Nickel"
+      },
+      {
+        "Contractor_Name": "GHI Mining Solutions",
+        "Contact": "services@ghimining.com",
+        "Location": "North-Western Region",
+        "Type_of_Mineral": "Tin"
+      },
+      {
+        "Contractor_Name": "JKL Mining Enterprises",
+        "Contact": "contact@jklmining.com",
+        "Location": "South-Eastern Region",
+        "Type_of_Mineral": "Aluminum"
+      },
+      {
+        "Contractor_Name": "MNO Mining Partners",
+        "Contact": "info@mnomining.com",
+        "Location": "Central-Western Region",
+        "Type_of_Mineral": "Platinum"
+      },
+      {
+        "Contractor_Name": "PQR Mining Ventures",
+        "Contact": "contact@pqrmining.com",
+        "Location": "North-Central Region",
+        "Type_of_Mineral": "Uranium"
+      },
+      {
+        "Contractor_Name": "STU Mining Operations",
+        "Contact": "info@stumining.com",
+        "Location": "South-Central Region",
+        "Type_of_Mineral": "Lithium"
+      },
+      {
+        "Contractor_Name": "VWX Mining Enterprises",
+        "Contact": "support@vwxmining.com",
+        "Location": "North-East Central Region",
+        "Type_of_Mineral": "Cobalt"
+      },
+      {
+        "Contractor_Name": "YZA Mining Solutions",
+        "Contact": "services@yza.com",
+        "Location": "South-West Central Region",
+        "Type_of_Mineral": "Manganese"
+      },
+      {
+        "Contractor_Name": "BCD Mining Partners",
+        "Contact": "info@bcdmining.com",
+        "Location": "North-West Central Region",
+        "Type_of_Mineral": "Tungsten"
+      }      
+    ]
+  }
+  

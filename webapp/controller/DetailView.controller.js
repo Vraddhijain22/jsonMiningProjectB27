@@ -34,7 +34,7 @@ sap.ui.define([
             })
             if (!this.oDiolog) {
                 this.oDiolog = Fragment.load({
-                    fragmentName: "app.mining.fragments.popUp",
+                    fragmentName: "app.miningprojectb27.fragments.popUp",
                     controller: this
                 }).then((dialog) => {
                     this.oDiolog = dialog
@@ -74,7 +74,7 @@ sap.ui.define([
         onListView: function() {
             let oRouter = this.getOwnerComponent().getRouter()
             // use the navigation method
-            oRouter.navTo("RouteListView")
+            oRouter.navTo("RouteMiningView")
         }
 
     });

@@ -35,10 +35,10 @@
                         <Table items="{MiningModel>/miningSupplier}" id="idMTable">
                             <columns>
                                 <Column>
-                                    <Text text="Type_of_Mineral"></Text>
+                                    <Text text="Mineral Type"></Text>
                                 </Column>
                                 <Column>
-                                    <Text text="Contractor_Name"></Text>
+                                    <Text text="Supplier Name"></Text>
                                 </Column>
                                 <Column>
                                     <Text text="Location"></Text>

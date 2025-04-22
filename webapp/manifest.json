@@ -75,16 +75,36 @@
       "routes": [
         {
           "name": "RouteMiningView",
-          "pattern": ":?query:",
+          "pattern": "",
           "target": [
-            "TargetMiningView"
+            "TargetMiningView",
+            "TargetEmpty"
           ]
+        },
+        {
+          "name": "RouteDetailView",
+          "pattern": "view2/{index}",
+          "target": "TargetDetail"
         }
       ],
       "targets": {
         "TargetMiningView": {
           "id": "MiningView",
-          "name": "MiningView"
+          "name": "MiningView",
+          "controlAggregation": "masterPages",
+          "viewLevel": 1
+        },
+        "TargetEmpty":{
+          "id": "idEmpty",
+          "name": "EmptyView",
+          "controlAggregation": "detailPages",
+          "viewLevel": 1
+        },
+        "TargetDetail": {
+          "id": "idDetail",
+          "name": "DetailView",
+          "controlAggregation": "detailPages",
+          "viewLevel":2
         }
       }
     },
