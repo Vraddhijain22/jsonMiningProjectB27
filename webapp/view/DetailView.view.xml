@@ -10,13 +10,13 @@
                     <IconTabFilter icon="sap-icon://information">
                         <VBox >
                             <f:SimpleForm>
-                                <Label text="LocationID"></Label>
+                                <Label text="Location ID"></Label>
                                 <Text text="{MiningModel>Location_ID}"></Text>
-                                <Label text="Location"></Label>
+                                <Label text="Location Description "></Label>
                                 <Text text="{MiningModel>Location_Description}"></Text>
                                 <Label text="Mineral Type"></Label>
                                 <Text text="{MiningModel>Type_of_Mineral}"></Text>
-                                <Label text="Cost"></Label>
+                                <Label text="Total Cost"></Label>
                                 <Text text="{MiningModel>Total_Cost}"></Text>
                                 <Label text="Resouce Tons"></Label>
                                 <Text text="{MiningModel>Mining_Resource_Allocated}"></Text>

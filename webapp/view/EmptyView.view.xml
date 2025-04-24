@@ -2,5 +2,8 @@
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m"
     xmlns:f="sap.ui.layout.form">
-    <Page id="idEmpty" title="Empty View" ></Page>
+    <Page id="idEmpty" title="Empty View" >
+        <Image src="https://i.pinimg.com/originals/7a/47/ba/7a47baa7426914d8c27e2e60496e2801.gif" width="100%" height="98%"></Image>
+    
+    </Page>
 </mvc:View>
